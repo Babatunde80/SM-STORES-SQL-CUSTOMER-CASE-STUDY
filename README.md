@@ -5,7 +5,7 @@
 -	[Data Source](#data-source)
 -	[Tools](#tools)
 -	[Objectives](#objectives)
--	[Data Cleaning-Preparation](#data-cleaningpreparation)
+-	[Data Cleaning Preparation](#data-cleaning-preparation)
 -	[Exploratory Data Analysis](#exploratory-data-analysis)
 -	[Data Analysis](#data-analysis)
 -	[Results](#results)
@@ -23,7 +23,7 @@ The primary dataset used for this analysis is the "sales_data.csv" file, contain
 
 ### Tools
 - Excel – Data Cleaning.
-- PostgreSQL – Data Analysis
+- PostgreSQL – Data Analysis.
 
 ### Objectives
 1. **Set up a database**: Create and populate a database with the provided sales data.
@@ -313,3 +313,10 @@ Based on the analysis, we recommend the following actions:
 - Focus on expanding and promoting more categories of products in the store.
 - Invest in marketing and promotions to expand into other cities across the country.
 - SM Stores should invest in marketing to improve and boost customer relationships.
+
+---
+### Let’s Connect:
+If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
+
+- **Email:** poisedconsult@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/babatunde-joel-etu/
