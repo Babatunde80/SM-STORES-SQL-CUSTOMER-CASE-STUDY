@@ -8,7 +8,7 @@
 -	[Data Cleaning Preparation](#data-cleaning-preparation)
 -	[Exploratory Data Analysis](#exploratory-data-analysis)
 -	[Data Analysis](#data-analysis)
--	[Results](#results)
+-	[Results/Findings](#results/findings)
 -	[Recommendations](#recommendations)
 
 ### Project Overview
