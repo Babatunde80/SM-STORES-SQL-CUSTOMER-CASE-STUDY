@@ -8,7 +8,7 @@
 -	[Data Cleaning Preparation](#data-cleaning-preparation)
 -	[Exploratory Data Analysis](#exploratory-data-analysis)
 -	[Data Analysis](#data-analysis)
--	[Results/Findings](#results/findings)
+-	[Results](#results)
 -	[Recommendations](#recommendations)
 
 ### Project Overview
@@ -302,7 +302,7 @@ end as "Price Category"
 from products;
 ```
 
-### Results/Findings
+### Results
 The analysis results are summarized as follows:
 1. SM Stores are currently operating in about 20 cities across the country.
 2. Furnishing seems to be the most active category purchased by customers in SM Stores.
