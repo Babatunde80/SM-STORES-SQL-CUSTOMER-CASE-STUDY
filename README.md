@@ -5,7 +5,7 @@
 -	[Data Source](#data-source)
 -	[Tools](#tools)
 -	[Objectives](#objectives)
--	[Data Preparation](#data-prparation)
+-	[Data Cleaning Preparation](#data-cleaning-preparation)
 -	[Exploratory Data Analysis](#exploratory-data-analysis)
 -	[Data Analysis](#data-analysis)
 -	[Results](#results)
@@ -31,7 +31,7 @@ The primary dataset used for this analysis is the "sales_data.csv" file, contain
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
-### Data Cleaning/Preparation 
+### Data Cleaning Preparation 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
