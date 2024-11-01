@@ -1,4 +1,6 @@
 # SM-STORES SQL CUSTOMER CASE STUDY
+![andy-hermawan-uFdCDgnoNVI-unsplash(1)jj](https://github.com/user-attachments/assets/82f9c426-4400-4657-8aed-1881834ad3e2)
+
 
 ## Table of Contents
 -	[Project Overview](#project-overview)
